@@ -1,0 +1,13 @@
+data_project:
+  outputs:
+    dev:
+      account: OITLXEY-WG60531
+      database: AIRBNB
+      password: Jnx@6504650465
+      role: ACCOUNTADMIN
+      schema: dbt_schema
+      threads: 1
+      type: snowflake
+      user: juned001
+      warehouse: COMPUTE_WH
+  target: dev
